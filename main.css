@@ -1,0 +1,28 @@
+#input{
+  width:120px;
+}
+h1{
+  text-align: center;
+}
+button{
+  background-color:gold;
+  color:rgb(14, 116, 14);
+  font-weight:bolder;
+}
+a{
+  background-color:gold;
+  color:rgb(14, 116, 14);
+  text-decoration:none;
+}
+
+html{
+  background-color: rgb(108, 108, 240);
+}
+
+h1{
+  color:rgb(0, 99, 0);
+}
+img{
+  margin-top: 60px;
+}
+
