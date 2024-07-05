@@ -38,61 +38,62 @@ inputbox.addEventListener("keyup", function(event) {
 submit.onclick=input;
 
 function input(){
-  if(inputbox.value==1){  window.open("|a1.html",'popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+  if(inputbox.value==1){  
+   window.open("a1.html",'popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   }
   
  else if(inputbox.value==2){
-    window.open('|a2.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+    window.open('a2.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   }
   else if(inputbox.value==3){
-      window.open('|a3.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a3.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==4){
-      window.open('|a4.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a4.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==5){
-      window.open('|a5.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a5.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==6){
-      window.open('|a6.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a6.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==7){
-      window.open('|a7.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a7.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==8){
-    window.open('|a8.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+    window.open('a8.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==9){
-    window.open('|a9.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+    window.open('a9.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==10){
-window.open('|a10.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+window.open('a10.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==11){
-    window.open('|a11.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+    window.open('a11.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==12){
 
-      window.open('|a12.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a12.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==13){
       
-      window.open('|a13.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a13.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==14){
-      window.open('|a14.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a14.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==15){
-    window.open('|a15.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+    window.open('a15.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==16){
-      window.open('|a16.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a16.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==17){
-      window.open('|a17.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a17.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==18){
-      window.open('|a18.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
+      window.open('a18.html','popUpWindow','height=1000,width=1000,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes');
   } 
   else if(inputbox.value==""){
     alert("You didn't enter anything");
